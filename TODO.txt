@@ -1,0 +1,5 @@
+DO, WHILE e FOR:
+EX3, EX5
+
+FOR:
+EX4
